@@ -1,2 +1,3 @@
-class StoreController < ApplicationController
+class StoreAdminController < ApplicationController
+  
 end
